@@ -1,7 +1,8 @@
-package com.dear.tools
+package com.dear.test
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.dear.tools.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
